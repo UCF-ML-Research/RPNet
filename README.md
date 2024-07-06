@@ -1,7 +1,7 @@
 # RPNet
 This is the implementation of our paper "Audit and Improve Robustness of Private Neural Networks on Encrypted Data" [Arxiv](https://arxiv.org/abs/2209.09996).
 
-The code is organized and maintained by Jiaqi Xue of Dr. Qian Lou's Lab at the University of Central Florida (UCF)
+The code is organized and maintained by Jiaqi Xue of Dr. Qian Lou's Lab at the University of Central Florida (UCF).
 
 ## Overview
 - We first identified that existing attacks and defense techniques for NN are not transformed well to Private Neural Networks (PNet). 
