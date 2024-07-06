@@ -10,8 +10,8 @@ The code is organized and maintained by Jiaqi Xue of Dr. Qian Lou's Lab at the U
 ![overview](https://github.com/UCF-ML-Research/RPNet/blob/main/figure/RPNet.png)
 ## Environment Setup
 Our codebase requires the following Python and PyTorch versions:
-Python --> 3.11.3
-PyTorch --> 2.0.1
+- Python --> 3.11.3
+- PyTorch --> 2.0.1
 
 ## Model Training
 ### MNIST
