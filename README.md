@@ -5,7 +5,7 @@ This is the implementation of our paper "Audit and Improve Robustness of Private
 - We first identified that existing attacks and defense techniques for NN are not transformed well to Private Neural Networks (PNet). 
 - We propose PNet-Attack to efficiently attack PNet in both target and untarget manners by arc-shaped search in the frequency domain and a cosine annealing perturbation size schedule. 
 - To defend the adversarial attacks, we propose RPNet by adding noise in the output layer and a DNT technique to design a Robust and Private Neural Network.
-
+![overview](https://github.com/UCF-ML-Research/RPNet/blob/main/figure/RPNet.png)
 ## Environment Setup
 Our codebase requires the following Python and PyTorch versions:
 Python --> 3.11.3
